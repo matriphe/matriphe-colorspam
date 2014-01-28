@@ -1,4 +1,5 @@
 === Plugin Name ===
+Contributors: muhammad.zamroni
 Tags: registration, spam, register, color
 Requires at least: 3.7.0
 Tested up to: 3.8.1
