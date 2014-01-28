@@ -1,29 +1,29 @@
-matriphe-colorspam
+matriphe colorspam
 ==================
 
 Fight spam in registration form using color recognition.
 
-== Description ==
+## Description
 
 Simple plugin to fight spam in registration form. It show color in box and user must type the name of color. The colors are red, green, blue, yellow, black, white, pink, orange, purple, grey.
 
 It use CSS coloring to generate color. Bot can't read this color name. Simple, nice and effective.
 
-== Installation ==
+## Installation ==
 
 1. Install "matriphe colorspam" either via the WordPress.org plugin directory, or by uploading the files to your server
 2. Activate the plugin.
 3. That's it. You're ready to go!
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions ==
 
 
 
-== Screenshots ==
+## Screenshots ==
 
 1. The register from after the plugin is activated.
 
-== Changelog ==
+## Changelog ==
 
 = 1.0 =
 * Initial plugin
