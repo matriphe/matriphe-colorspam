@@ -17,5 +17,5 @@ It use CSS coloring to generate color. Bot can't read this color name. Simple, n
 
 ## Changelog 
 
-= 1.0 =
+### 1.0
 * Initial plugin
