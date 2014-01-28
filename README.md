@@ -15,14 +15,6 @@ It use CSS coloring to generate color. Bot can't read this color name. Simple, n
 2. Activate the plugin.
 3. That's it. You're ready to go!
 
-## Frequently Asked Questions 
-
-
-
-## Screenshots 
-
-1. The register from after the plugin is activated.
-
 ## Changelog 
 
 = 1.0 =
