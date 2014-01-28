@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: matriphe!colorspam
- * Plugin URI: http://matriphe.com
+ * Plugin URI: https://github.com/matriphe/matriphe-colorspam
  * Description: Fight SPAM using simple color recognition.
  * Version: 1.0
  * Author: Muhammad Zamroni
