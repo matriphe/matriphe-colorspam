@@ -19,3 +19,7 @@ It use CSS coloring to generate color. Bot can't read this color name. Simple, n
 
 ### 1.0
 * Initial plugin
+
+### 2.0
+* Better security. Thanks to @linxlunx for posting bot in python to break the plugin here http://pastebin.com/XWBZT17d
+* Remove ORANGE and GREY from list
