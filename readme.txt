@@ -3,7 +3,7 @@ Contributors: muhammad.zamroni
 Tags: registration, spam, register, color
 Requires at least: 3.7.0
 Tested up to: 3.8.1
-Stable tag: 2.0
+Stable tag: 3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,9 +27,17 @@ It use CSS coloring to generate color. Bot can't read this color name. Simple, n
 
 == Changelog ==
 
-= 1.0 =
-* Initial plugin
+= 3.0 =
+* Using images instead of CSS. CSS color is breakable. Thanks to @mascang for posting bot in python to break the plugin here http://pastebin.com/zTLxSqkj
+* Readd ORANGE and GREY from list
+* Using options database to store color options
+* Using session to tighten the security
+* Better register interface
 
 = 2.0 =
 * Better security. Thanks to @linxlunx for posting bot in python to break the plugin here http://pastebin.com/XWBZT17d
 * Remove ORANGE and GREY from list
+
+= 1.0 =
+* Initial plugin
+
